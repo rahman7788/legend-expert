@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* neon helpers */
+.neon-text { text-shadow: 0 8px 30px rgba(255,0,0,0.30); }
+.audio-bar { appearance:none; height:6px; border-radius:4px; }
+body { background: #000; }
